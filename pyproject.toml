@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "exenworldgen"
-version = "0.1"
+version = "1.0"
 description = "Cool world generator"
 authors = ["Exenifix"]
 readme = "README.md"

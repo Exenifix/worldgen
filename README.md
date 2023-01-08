@@ -1,6 +1,6 @@
 # ExenWorldGen
 Module for quicks maze-like 2D world generations <br>
-![https://github.com/Exenifix/worldgen/blob/master.github/res/maze.png](https://github.com/Exenifix/worldgen/blob/master/.github/res/maze.png)
+![https://github.com/Exenifix/worldgen/blob/master.github/res/maze.png](https://github.com/Exenifix/worldgen/blob/master/.github/res/maze.png?raw=1)
 
 ## Installation
 Library is available on PyPI:

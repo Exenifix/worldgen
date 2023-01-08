@@ -36,8 +36,8 @@ class World:
             for el in row:
                 txt += colored(
                     f"{el} ",
-                    foreground=Color.GREY if not el else Color.BRIGHT_WHITE,
-                    background=Color.BRIGHT_WHITE if el else None,
+                    foreground=Color.BLACK if not el else Color.BRIGHT_WHITE,
+                    background=Color.BLACK if not el else Color.BRIGHT_WHITE,
                 )
             txt += "\n"
         print(txt)

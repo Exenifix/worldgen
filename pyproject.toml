@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "exenmaze"
+version = "0.1"
+description = "Cool world generator"
+authors = ["Exenifix"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+exencolor = "^1.1.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

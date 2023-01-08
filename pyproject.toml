@@ -5,6 +5,7 @@ description = "Cool world generator"
 authors = ["Exenifix"]
 readme = "README.md"
 repository = "https://github.com/Exenifix/worldgen"
+license = "MIT"
 
 [tool.poetry.dependencies]
 python = ">=3.10,<4.0"
